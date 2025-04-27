@@ -11,7 +11,7 @@ Design a `find` command-line utility. This utility should support various filter
 
 ## Designing
 
-> The **Strategy Design Pattern** enables defining a family of algorithms, encapsulating each in a separate class, and making them interchangeable.
+> The **Strategy Design Pattern** enables defining a family of algorithms, encapsulating each in a separate class, and making them interchangeable. [Link](https://refactoring.guru/design-patterns/strategy)
 
 ## Why Strategy Pattern?
 
